@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @0r1g1n4lu53rn4m3
+- 👀 I’m interested in ... Artificial intelligence, machine learning, and deep learning
+- 🌱 I’m currently learning ... coding as a whole
